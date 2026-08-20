@@ -14,6 +14,10 @@ The framework simulates a **1,000-node fog network** and evaluates how attacks a
 
 ---
 
+## Risk Assessment Visualization
+
+![Network Risk Map](results/risk-map.png)
+
 ## Objectives
 
 The project focuses on:
